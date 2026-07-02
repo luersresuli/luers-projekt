@@ -1,0 +1,24 @@
+.ourMenu {
+    text-align: center;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 36px;
+    line-height: 1.5;
+}
+.artikulliStyle {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.pershkrimiStyle{
+    color: #757575;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 15px;
+    line-height: 1.5;
+
+}

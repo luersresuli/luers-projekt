@@ -1,0 +1,19 @@
+.footer {
+    background-color: #4b4b4b;
+    color: whitesmoke;
+}
+.footer-headings {
+    color: rgb(185, 230, 37);
+}
+.programs {
+    background-color: #4b4b4b ;
+    color: whitesmoke;
+    border: 1px solid #4b4b4b;
+}
+.button {
+    border-radius: 20px;
+}
+.button:hover{
+    transform: scale(1.2);
+    transition: 0.7s;
+}
